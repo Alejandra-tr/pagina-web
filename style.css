@@ -1,0 +1,52 @@
+h1 {
+    color: #48e950;
+    animation: step-end;
+    
+}
+  
+  a:hover {
+    background-color: gold;
+  }
+
+ 
+
+.button1 {
+    text-decoration:none;
+    font-weight:600;
+    font-size:20px;
+    color:#ffffff;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right:30px;
+    background-color:#196b67;
+    border-radius:10px;
+    position: right;
+ }
+ .button2 {
+    text-decoration:none;
+    font-weight:600;
+    font-size:20px;
+    color:#ffffff;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right:30px;
+    background-color:#b64949;
+    border-radius:10px;
+   
+ }
+
+ header {
+    position: fixed;
+    top: 0;
+    width: 100%;  
+    padding: 15px 20px;
+    background-color: rgb(8, 51, 116);
+    font-size: 20px;
+    color: #FFFFFF;
+    
+}
+body {
+    margin: 0px;
+}
